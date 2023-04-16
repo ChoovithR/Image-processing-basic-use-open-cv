@@ -10,7 +10,7 @@ and Mathplotlib
 ```bash
 pip install matplotlib
 ```
-
+![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
 
 
