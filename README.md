@@ -12,5 +12,5 @@ pip install matplotlib
 ```
 
 
-Detail code
-- Read and show image
+Example code
+1. Read and show image
